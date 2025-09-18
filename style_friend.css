@@ -1,0 +1,44 @@
+.single .sing{
+    width: 150px;
+    height: 175px;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+.single .name{
+    padding-left: 20px;
+    color: black;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.single .friend{
+    color: gray;
+    margin-left: 18px;
+    margin-top: 10px;
+
+}
+.single .btn1{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border: none;
+    background-color: rgb(83, 83, 224);
+    color: white;
+    border-radius: 4px;
+    margin-left: 18px;
+    
+
+    
+}
+.single{
+    margin-top: 10px;
+    display: inline-block;
+    height: 302px;
+    width: 190px;
+    display: flexbox;
+    border-color: gray;
+    align-content: center;
+    box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.15);
+    margin-right: 8px;
+}

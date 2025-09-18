@@ -1,0 +1,29 @@
+.shadow .me{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    margin-left: 10px;
+    
+
+}
+.shadow{
+    width: 400px;
+    height: 80px;
+    /*background-color: #f0f0f0; /* a light background for visibility */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 25px 1px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.shadow .btn{
+    margin-right: 10px;
+    margin-left: 130px;
+    font-size: 16px;
+    padding: 10px 15px;
+    border-radius: 38px;
+    border: none;
+    background-color: blue;
+    color: white;
+}
